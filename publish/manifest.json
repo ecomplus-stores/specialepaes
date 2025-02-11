@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d945c2f867bf56aa10f49f0b321daf65.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_384x384.d945c2f867bf56aa10f49f0b321daf65.webp",
+      "sizes": "384x384",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_192x192.d945c2f867bf56aa10f49f0b321daf65.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_128x128.d945c2f867bf56aa10f49f0b321daf65.webp",
+      "sizes": "128x128",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_96x96.d945c2f867bf56aa10f49f0b321daf65.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "name": "Speciale - Pão Italiano",
+  "short_name": "Speciale",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Speciale - Pão Italiano",
+  "background_color": "#ffffff",
+  "theme_color": "#ec1c24"
+}
