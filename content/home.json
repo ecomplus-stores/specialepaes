@@ -3,14 +3,15 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "views",
+      "autoplay": 1,
+      "page": 1,
       "title": "Pães Italianos",
+      "shuffle": false,
       "headless": false,
+      "type": "collection-shelf",
       "limit": 12,
-      "page": 1
+      "collection_id": null,
+      "sort": "views"
     }
   ]
 }
