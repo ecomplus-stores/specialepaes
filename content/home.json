@@ -4,10 +4,10 @@
   "sections": [
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
-      "sort": "offers",
-      "title": "",
+      "sort": "views",
+      "title": "Pães Italianos",
       "headless": false,
       "limit": 12,
       "page": 1
